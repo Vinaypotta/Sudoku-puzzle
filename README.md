@@ -1,4 +1,5 @@
 # Sudoku-puzzle
+An overview of how the code works is shown in the images below.
 <img width="960" alt="img-1" src="https://github.com/Vinaypotta/Sudoku-puzzle/assets/91713421/c4fa18d4-ebfe-4394-b92f-6fbf48534c45">
 <img width="960" alt="img-2" src="https://github.com/Vinaypotta/Sudoku-puzzle/assets/91713421/c12f3217-f4f2-4ec1-bbe7-1eb24f788836">
 <img width="960" alt="img-3" src="https://github.com/Vinaypotta/Sudoku-puzzle/assets/91713421/56997a16-a842-4c4b-93f3-a5ee1c86d6f6">
